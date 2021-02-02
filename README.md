@@ -1,7 +1,7 @@
 ### Hi! friends 👋 I'm a korean student 👨‍🎓
 
 ### 🌱 I’m currently learning python, web
-### 🦈 [my blog](kaso5552.github.io)
+### 🦈 [my blog](https://kaso5552.github.io/)
 ### 📖 Thank you!
 
 
