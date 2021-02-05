@@ -1,6 +1,6 @@
 ### Hi! friends 👋 I'm a korean student 👨‍🎓
 
-### 🌱 I’m currently learning python, web
+### 🌱 I’m currently learning python, web(html, css, bootstrap)
 ### 🦈 [my blog](https://kaso5552.github.io/)
 ### 📖 Thank you!
 
